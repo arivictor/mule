@@ -41,9 +41,4 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ---
 
-This project is licensed under the [GNU v3 License](LICENSE). Feel free to use and modify the code as per the terms of the license.
-
-
-### ❤️ Acknowledgement
-
-Based on the book "Let's Go Further" by Alex Edwards.
+This project is licensed under the [GNU v3 License](LICENSE). Feel free to use and modify the code as per the terms of the license. Based on the book "Let's Go Further" by Alex Edwards.
