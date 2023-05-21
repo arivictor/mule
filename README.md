@@ -1,5 +1,7 @@
 ![mule validation library](cover.png)
 
+[![Build](https://github.com/arivictor/mule/actions/workflows/go.yml/badge.svg)](https://github.com/arivictor/mule/actions/workflows/go.yml)
+
 The simple validation library for Go.
 
 ### 🚀 Installation
